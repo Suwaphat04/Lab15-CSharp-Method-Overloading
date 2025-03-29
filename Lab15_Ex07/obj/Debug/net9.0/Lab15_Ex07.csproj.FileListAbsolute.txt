@@ -1,0 +1,5 @@
+C:\OOP\Lab15-CSharp-Method-Overloading\Lab15_Ex07\obj\Debug\net9.0\Lab15_Ex07.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\Lab15-CSharp-Method-Overloading\Lab15_Ex07\obj\Debug\net9.0\Lab15_Ex07.AssemblyInfoInputs.cache
+C:\OOP\Lab15-CSharp-Method-Overloading\Lab15_Ex07\obj\Debug\net9.0\Lab15_Ex07.AssemblyInfo.cs
+C:\OOP\Lab15-CSharp-Method-Overloading\Lab15_Ex07\obj\Debug\net9.0\Lab15_Ex07.csproj.CoreCompileInputs.cache
+C:\OOP\Lab15-CSharp-Method-Overloading\Lab15_Ex07\obj\Debug\net9.0\Lab15_Ex07.sourcelink.json
